@@ -1,0 +1,2 @@
+start wordpad
+start charmap
